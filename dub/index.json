@@ -11,8 +11,8 @@
       "US"
     ],
     "icon": "https://releases.moe/favicon.png",
-    "update": "gh:hayase-app/extensions/dub",
-    "code": "gh:hayase-app/extensions/dub/seadex"
+    "update": "gh:DeltaGarnet/hayase-extensions/dub",
+    "code": "gh:DeltaGarnet/hayase-extensions/dub/seadex"
   },
   {
     "name": "AnimeTosho Dubs",
@@ -26,7 +26,7 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:hayase-app/extensions/dub",
-    "code": "gh:hayase-app/extensions/dub/animetosho"
+    "update": "gh:DeltaGarnet/hayase-extensions/dub",
+    "code": "gh:DeltaGarnet/hayase-extensions/dub/animetosho"
   }
 ]
